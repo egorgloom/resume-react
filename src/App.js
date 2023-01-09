@@ -1,6 +1,7 @@
 import InfoAboutUser from './components/InfoAboutUser';
 import UserProjects from './components/UserProjects';
 import Footer from './components/Footer'
+import Fishing from './components/fishing';
 function App() {
   return (
     <>
@@ -10,6 +11,7 @@ function App() {
     <UserProjects />
     </div>
     <Footer />
+    <Fishing />
     </>
   );
 }
