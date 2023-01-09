@@ -1,13 +1,106 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=Lato&family=Merriweather:wght@700&family=Poppins&family=Roboto+Slab:wght@300&display=swap');
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+:root {
+  --color-white: #fff;
+  --color-gold: #bdae82;
+  --color-black: black;
+  --font20: 20px;
+  --font25: 25px;
+  --font30: 30px;
+  --font40: 40px;
+
+}
+body {
+  font-family: 'Roboto Slab', serif;
+  background-color: rgb(39, 37, 37);
+  color:var(--color-white);
+  max-width: 1024px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1,
+h2 {
+    text-align: center;
+    padding: 10px 0;
+}
+h1 {
+    font-size: var(--font30);
+}
+h2 {
+    font-size: var(--font20);
+}
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-white);
+}
+
+.user-cv {
+  display: flex;
+  justify-content: center;
+}
+
+.InfoAboutUser {
+  width: 300px;
+  margin: 0 50px;
+}
+h3 {
+  font-size: var(--font25);
+  margin: 10px auto;
+  border-bottom: 2px solid var(--color-gold);
+}
+
+
+.avatar {
+  border-radius: 10%;
+}
+.padding img {
+  padding-right: 10px;
+}
+.padding {
+  padding-left: 15px;
+}
+.padding li {
+  padding: 5px;
+}
+
+h4 {
+  margin: 10px auto;
+}
+
+.user-projects {
+  padding: 50px;
+  color:var(--color-black);
+  background-color: var(--color-white);
+}
+
+.projects {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+}
+.proj {
+  width: 200px;
+  margin: 10px;
+  font-size: var(--font2);
+  font-weight: bold;
+}
+.text {
+  width: 400px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0;
+  font-size: var(--font25);
 }

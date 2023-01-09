@@ -1,0 +1,28 @@
+{
+    "workExperience": [
+        {
+            "index": 1,
+            "img": "https://sun9-44.userapi.com/impg/8xu07hrJ8KkobWijrlzveVvQlhiuxOtcvSsS6Q/BL5HdR9yErM.jpg?size=802x628&quality=95&sign=c6580c40ff71f6d83e1ec185596c684e&type=album",
+            "description": "Online-zoo is a platform where information about animals from various zoos with webcams is collected. It is assumed that the user can open a page with zoo resources, observe any of the animals or make a donation for which food will be purchased. As part of the task, it was necessary to make adaptive layout and interactivity of the main page, and pages with donations.",
+            "link": "https://egorgloom.github.io/zoo/?"
+        },
+        {
+            "index": 2,
+            "img": "https://sun9-4.userapi.com/impg/U1tku7Ybg1FD0TUYVsC-6VO41CSkcw04hXUKew/_3ANeCRgGWc.jpg?size=721x625&quality=95&sign=75423969c05289db4919b1d80b6572a2&type=album",
+            "description": "The photographer's one-page website. Adaptive and interactive",
+            "link": "https://rolling-scopes-school.github.io/egorgloom-JSFEPRESCHOOL/portfolio/"
+        },
+        {
+            "index": 3,
+            "img": "https://sun9-77.userapi.com/impg/BQspZv3CCLPO8ZgYkIQsrr_l_pEaQzeCwfsj_A/hpymw8L4hMU.jpg?size=791x617&quality=95&sign=0cde156c5b315ca703653e3cc3e86d71&type=album",
+            "description": "A music player that allows you to play music tracks in turn or flip through them by clicking on buttons. Each music track has a specific background image. An audio player with the ability to play several tracks sequentially, flipping through them.",
+            "link": "https://rolling-scopes-school.github.io/egorgloom-JSFEPRESCHOOL/js30-1.2-audio-player/"
+        },
+        {
+            "index": 4,
+            "img": "https://sun9-61.userapi.com/impg/bJg3TcbELONiqDIc0R5h76dFeyUaA36Hr3H2gA/dXrcyuyzw6Q.jpg?size=1280x562&quality=95&sign=8b521d76287af16105571e274489feee&type=album",
+            "description": "An application that displays information about movies at the user's request.",
+            "link": "https://rolling-scopes-school.github.io/egorgloom-JSFEPRESCHOOL/movieApp/"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "contacts" : [
+        {
+            "index" : 1,
+            "img" : "https://www.pinclipart.com/picdir/big/526-5260378_location-icon-png-clipart.png",
+            "description" : "Belarus, Minsk"
+            
+        },
+        {
+            "index" : 2,
+            "img" : "https://komsomolsk-na-amure.zavesa-online.ru/wp-content/uploads/2020/02/icon-telephone-receiver-telephone-receiver-phone_1.png",
+            "description" : "+375297741127"
+            
+        },
+        {
+            "index" : 3,
+            "img" : "https://www.freepngimg.com/thumb/logo/64668-icons-computer-user-address-logo-email-gmail.png",
+            "description" : "orlov.egor4@yandex.ru"
+            
+        },
+        {
+            "index" : 4,
+            "img" : "https://fgb.org.ar/wp-content/uploads/2021/05/logo-Telegram-1.png",
+            "description" : "Telegram",
+            "link" : "https://t.me/gloom85"
+        }, 
+        {
+            "index" : 5,
+            "img" : "https://avatars.mds.yandex.net/i?id=e436a7819eba8f04c0908917f28d47df-4590089-images-thumbs&n=13",
+            "description" : "GitHub",
+            "link" : "https://github.com/egorgloom"
+        }
+
+    ]
+}

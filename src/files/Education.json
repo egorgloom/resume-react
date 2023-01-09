@@ -1,0 +1,32 @@
+{
+    "universities": [
+        {
+            "name": "BSAA"
+        },
+        {
+            "name": "Belarusian State University. Manager-economist"
+        }
+    ],
+    "courses": [
+        {
+            "index": 1,
+            "link": "https://rs.school/js-stage0/",
+            "name": "RS Schools «JavaScript/Front-end. Stage 0»"
+        },
+        {
+            "index": 2,
+            "link": "https://htmlacademy.ru/study",
+            "name": "HTML Academy"
+        },
+        {
+            "index": 3,
+            "link": "https://www.w3schools.com/",
+            "name": "CSS Tutorials on w3schools"
+        },
+        {
+            "index": 4,
+            "link": "https://rs.school/",
+            "name": "JavaScript/Front-end 2022Q3"
+        }
+    ]
+}
